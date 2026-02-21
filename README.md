@@ -46,15 +46,8 @@ Open: http://127.0.0.1:7860
 
 # 📸 Platform Preview
 
-## Job Dashboard
+<img width="7620" height="4448" alt="127 0 0 1_7860_(High res)" src="https://github.com/user-attachments/assets/17738385-1956-4c4a-b43f-855f89ee39fe" />
 
-![Dashboard](docs/ui_dashboard.png)
-
-## Live Log Viewer
-
-![Live Log](docs/ui_live_log.png)
-
-> Replace images above with actual screenshots from your platform (`docs/` folder).
 
 ---
 
