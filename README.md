@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-WSL2-blue" />
   <img src="https://img.shields.io/badge/CUDA-12.8-green" />
-  <img src="https://img.shields.io/badge/PyTorch-2.x-orange" />
+  <img src="https://img.shields.io/badge/PyTorch-2.8.0-orange" />
   <img src="https://img.shields.io/badge/COLMAP-CUDA--Enabled-purple" />
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
 </p>
